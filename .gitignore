@@ -1,0 +1,18 @@
+#ignore all vim swap files
+.*swp
+.*swo
+
+#ignore all executables
+*.exe
+
+#ignore all pdfs
+*.pdf
+
+#ignore all zips
+*.zip
+
+#ignore any local settings
+.vscode/settings.json
+*.json
+
+/Debug/

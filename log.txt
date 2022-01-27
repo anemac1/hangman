@@ -1,0 +1,165 @@
+Game started at   <12.01.2022 - 09:09:35>
+Word status: ???????????
+User input 'C' at <12.01.2022 - 09:09:44>
+Word status: ???????????
+User input 'P' at <12.01.2022 - 09:09:47>
+Word status: P??????????
+User input 'R' at <12.01.2022 - 09:09:50>
+Word status: PR??R??????
+User input 'O' at <12.01.2022 - 09:09:52>
+Word status: PRO?R??????
+User input 'M' at <12.01.2022 - 09:09:52>
+Word status: PRO?R?MM???
+User input 'I' at <12.01.2022 - 09:09:54>
+Word status: PRO?R?MMI??
+User input 'N' at <12.01.2022 - 09:09:54>
+Word status: PRO?R?MMIN?
+User input 'G' at <12.01.2022 - 09:09:57>
+Word status: PROGR?MMING
+User input 'A' at <12.01.2022 - 09:09:59>
+Game ended at     <12.01.2022 - 09:09:59>
+User won! Word: PROGRAMMING
+=========================================
+Game started at   <12.01.2022 - 09:10:16>
+Word status: ???
+User input 'Q' at <12.01.2022 - 09:10:20>
+Word status: ???
+User input 'W' at <12.01.2022 - 09:10:20>
+Word status: ???
+User input 'E' at <12.01.2022 - 09:10:21>
+Word status: ???
+User input 'R' at <12.01.2022 - 09:10:22>
+Word status: ?R?
+User input 'T' at <12.01.2022 - 09:10:23>
+Word status: ?R?
+User input 'R' at <12.01.2022 - 09:10:25>
+Game started at   <12.01.2022 - 09:10:38>
+Word status: ???
+User input 'A' at <12.01.2022 - 09:10:39>
+Word status: A??
+User input 'R' at <12.01.2022 - 09:10:40>
+Word status: AR?
+User input 'G' at <12.01.2022 - 09:10:41>
+Game ended at     <12.01.2022 - 09:10:41>
+User won! Word: ARG
+=========================================
+Game started at   <12.01.2022 - 09:11:33>
+Word status: ????
+User input 'T' at <12.01.2022 - 09:12:22>
+Word status: T??T
+User input 'Q' at <12.01.2022 - 09:12:26>
+Word status: T??T
+User input 'W' at <12.01.2022 - 09:12:27>
+Word status: T??T
+User input 'P' at <12.01.2022 - 09:12:31>
+Game ended at     <12.01.2022 - 09:12:31>
+User lost! Word: TEST
+=========================================
+Game started at   <12.01.2022 - 09:12:39>
+Word status: ????
+User input 'T' at <12.01.2022 - 09:12:40>
+Word status: T??T
+User input 'E' at <12.01.2022 - 09:12:41>
+Word status: TE?T
+User input 'S' at <12.01.2022 - 09:12:45>
+Game ended at     <12.01.2022 - 09:12:46>
+User won! Word: TEST
+=========================================
+Game started at   <12.01.2022 - 11:09:56>
+Word status: ????
+User input 'W' at <12.01.2022 - 11:10:01>
+Word status: W???
+User input 'O' at <12.01.2022 - 11:10:06>
+Word status: WO??
+User input 'R' at <12.01.2022 - 11:10:09>
+Word status: WOR?
+User input 'D' at <12.01.2022 - 11:10:10>
+Game ended at     <12.01.2022 - 11:10:10>
+User won! Word: WORD
+=========================================
+Game started at   <14.01.2022 - 10:17:34>
+Word status: ???
+User input 'A' at <14.01.2022 - 10:17:37>
+Word status: A??
+User input 'R' at <14.01.2022 - 10:17:37>
+Word status: AR?
+User input 'G' at <14.01.2022 - 10:17:38>
+Game ended at     <14.01.2022 - 10:17:38>
+User won! Word: ARG
+=========================================
+Game started at   <14.01.2022 - 10:18:55>
+Word status: ????
+User input 'W' at <14.01.2022 - 10:19:01>
+Word status: W???
+User input 'O' at <14.01.2022 - 10:19:02>
+Word status: WO??
+User input 'R' at <14.01.2022 - 10:19:02>
+Word status: WOR?
+User input 'D' at <14.01.2022 - 10:19:04>
+Game ended at     <14.01.2022 - 10:19:04>
+User won! Word: WORD
+=========================================
+Game started at   <14.01.2022 - 10:19:12>
+Word status: ????
+User input 'Q' at <14.01.2022 - 10:19:14>
+Word status: ????
+User input 'E' at <14.01.2022 - 10:19:15>
+Word status: ????
+User input 'R' at <14.01.2022 - 10:19:16>
+Word status: ??R?
+User input 'Z' at <14.01.2022 - 10:19:18>
+Word status: ??R?
+User input 'U' at <14.01.2022 - 10:19:19>
+Word status: ??R?
+User input 'I' at <14.01.2022 - 10:19:21>
+Game ended at     <14.01.2022 - 10:19:21>
+User lost! Word: WORT
+=========================================
+Game started at   <14.01.2022 - 10:19:58>
+Word status: ???
+User input 'A' at <14.01.2022 - 10:19:59>
+Word status: A??
+User input 'R' at <14.01.2022 - 10:20:00>
+Word status: AR?
+User input 'G' at <14.01.2022 - 10:20:00>
+Game ended at     <14.01.2022 - 10:20:00>
+User won! Word: ARG
+=========================================
+Game started at   <14.01.2022 - 10:21:48>
+Word status: ?????
+User input 'T' at <14.01.2022 - 10:21:51>
+Word status: E??E?
+User input 'S' at <14.01.2022 - 10:21:58>
+Word status: ESSE?
+User input 'N' at <14.01.2022 - 10:21:59>
+Game ended at     <14.01.2022 - 10:21:59>
+User won! Word: ESSEN
+=========================================
+Game started at   <14.01.2022 - 10:23:03>
+Word status: ???
+User input 'A' at <14.01.2022 - 10:23:05>
+Word status: A??
+User input 'R' at <14.01.2022 - 10:23:05>
+Word status: AR?
+User input 'G' at <14.01.2022 - 10:23:05>
+Game ended at     <14.01.2022 - 10:23:05>
+User won! Word: ARG
+=========================================
+Game started at   <18.01.2022 - 15:58:57>
+Word status: ????????
+User input 'X' at <18.01.2022 - 15:59:02>
+Word status: ????????
+User input 'A' at <18.01.2022 - 15:59:04>
+Word status: ????????
+User input 'E' at <18.01.2022 - 15:59:05>
+Word status: ??????E?
+User input 'T' at <18.01.2022 - 15:59:06>
+Word status: ?????TE?
+User input 'F' at <18.01.2022 - 15:59:06>
+Word status: ?????TE?
+User input 'N' at <18.01.2022 - 15:59:08>
+Word status: ?????TE?
+User input 'B' at <18.01.2022 - 15:59:09>
+Game ended at     <18.01.2022 - 15:59:09>
+User lost! Word: COMPUTER
+=========================================
